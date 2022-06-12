@@ -1,4 +1,4 @@
-#include "main.h"
+#include "shell.h"
 
 /**
  * shell - a function that executes the
